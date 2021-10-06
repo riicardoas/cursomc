@@ -1,8 +1,5 @@
 package com.constructor.cursomc.resources;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import com.constructor.cursomc.domain.Categoria;
 import com.constructor.cursomc.service.CategoriaService;
 
